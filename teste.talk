@@ -1,0 +1,5 @@
+defina x como 10
+defina y como 5
+diga "A soma é:"
+se x for maior 5, diga "x é maior que 5"
+enquanto y for menor 10, diga y
